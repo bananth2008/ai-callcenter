@@ -21,7 +21,11 @@ torch==2.5.1
 # LLM - Ollama client
 ollama==0.4.2
 
+# PDF parsing
+PyPDF2==3.0.1
+
 # Utilities
+python-dotenv==1.0.1
 python-multipart==0.0.17
 pydantic==2.10.2
 pytest==7.4.2
