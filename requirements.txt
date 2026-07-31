@@ -29,4 +29,4 @@ python-dotenv==1.0.1
 python-multipart==0.0.17
 pydantic==2.10.2
 pytest==7.4.2
-streamlit==1.41.0
+streamlit==1.54.0
